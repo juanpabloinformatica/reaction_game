@@ -42,9 +42,10 @@ The Reaction Game is an interactive web-based game designed to test and improve 
 4. Open a webbrowser and redirect to http://localhost:5173
 
 ## Demo
-<video width="500" height="500" controls>
-  <source src="./video/video.mp4" type="video/mp4">
-</video>
 
 
+
+
+
+https://github.com/juanpabloinformatica/reaction_game/assets/64615774/120055c7-81e0-434a-a513-77950b695de0
 
