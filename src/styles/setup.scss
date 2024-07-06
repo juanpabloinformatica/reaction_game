@@ -1,0 +1,39 @@
+.setup {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  background-color: black;
+  color: white;
+}
+
+.formWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+label {
+  display: block;
+}
+
+.setupButton {
+  margin-top: 10px;
+  height: 30px;
+  width: 100px;
+}
+
+.ballSpeed {
+  height: 20px;
+  width: 100px;
+}
+
+.ballNumber {
+  height: 20px;
+  width: 100px;
+}
